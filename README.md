@@ -1,2 +1,3 @@
 # TestingRepo
 first_testing_repository_about_git
+Some_text
