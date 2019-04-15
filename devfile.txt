@@ -1,1 +1,2 @@
-Hello new branch merging here in master branch
+Hello new branch merging 
+here in master branch
